@@ -154,59 +154,6 @@ Open another terminal.
 cd client
 npm start
 ```
-
-### 8. Open Browser
-
-```
-http://localhost:3000
-```
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot Here)
-
----
-
-### Registration Page
-
-(Add Screenshot Here)
-
----
-
-### Login Page
-
-(Add Screenshot Here)
-
----
-
-### Dashboard
-
-(Add Screenshot Here)
-
----
-
-### Add Meal
-
-(Add Screenshot Here)
-
----
-
-### Meal History
-
-(Add Screenshot Here)
-
----
-
-### BMI Calculator
-
-(Add Screenshot Here)
-
----
-
 ## 🚀 Future Enhancements
 
 - Edit Meal
