@@ -1,3 +1,5 @@
+
+
 # 🥗 Nutrition Assistant
 
 A full-stack Nutrition Assistant web application developed using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. The application helps users maintain healthy eating habits by allowing them to register, log in securely, calculate BMI, add meals, and view their meal history.
